@@ -19,11 +19,11 @@ https://github.com/user-attachments/assets/e47c6a59-65b3-4217-9b7e-a718fa20e18a
 
 Carousel:  
 
-https://github.com/user-attachments/assets/ece4177a-e6e3-46ce-aae8-ed42bcd2860c  
+https://github.com/user-attachments/assets/b175e807-f473-4a9e-900b-afa4ef5bbdc3
 
 Cards:
 
-https://github.com/user-attachments/assets/6b6d3c78-5aae-47d0-aeaa-9ac694f12526
+https://github.com/user-attachments/assets/35c97f08-a0bf-42db-8f0d-ae8748e3ad93
 
 Downloader:
 
